@@ -1,0 +1,37 @@
+/* add font family */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+/* remove default spacing */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',
+    sans-serif;
+}
+
+/* major sizing defaults */
+body {
+    background-image: url(../images/hero-bg.webp);
+    background-repeat: no-repeat;
+    background-position: 0 30%;
+    background-size: cover;
+}
+.hero-section {
+    padding: 28px 53px;
+}
+
+/* header section styles */
+.logo {
+    font-size: 19px;
+}
+hr.solid {
+    border-top: 1px solid #ffffff;
+    margin: 15px 0; /* 1st value is for top & bottom, 2nd value for left & right */
+}
+.header-title {
+    font-weight: bold;
+    font-size: 42px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 9px 0 0; /* 1st value = top, 2nd value = left & right, 3rd value = bottom */
+}
