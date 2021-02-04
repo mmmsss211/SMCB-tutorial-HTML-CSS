@@ -25,8 +25,8 @@ body {
     font-size: 19px;
 }
 hr.solid {
-    border-top: 1px solid #ffffff;
-    margin: 15px 0; /* 1st value is for top & bottom, 2nd value for left & right */
+    color: #ffffff;
+    margin: 9px 0; /* 1st value is for top & bottom, 2nd value for left & right */
 }
 .header-title {
     font-weight: bold;
