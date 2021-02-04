@@ -102,7 +102,7 @@ A list of things you'll need to use when tagging along the tutorial.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more info, please email to the <a href="mailto: mmmsss211@gmail.com">Percival Ian Muico</a>
+_For more info, please email to <a href="mailto: mmmsss211@gmail.com">Percival Ian Muico</a>
 
 
 
