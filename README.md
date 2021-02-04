@@ -1,11 +1,10 @@
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">SMCB - Week 1 - HTML/CSS</h3>
+  <h1 align="center">SMCB - Week 1 - HTML/CSS</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome programming journing to jumpstart your careers!
     <br />
     <a href="https://github.com/mmmsss211/SMCB-tutorial-HTML-CSS"><strong>Explore the docs »</strong></a>
     <br />
@@ -14,7 +13,7 @@
     ·
     <a href="mailto: mmmsss211@gmail.com">Report Bug</a>
     ·
-    <a href="mailto: mmmsss211@gmail.com">Request an Update</a>
+    <a href="mailto: mmmsss211@gmail.com">Request Something Cool</a>
   </p>
 </p>
 
