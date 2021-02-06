@@ -15,7 +15,7 @@ body, html {
 body {
     background-image: url(../images/hero-bg.webp);
     background-repeat: no-repeat;
-    background-position: 0 30%;
+    background-position: 0 43%;
     background-size: cover;
 }
 .hero-section {
@@ -48,49 +48,58 @@ hr.solid {
 }
 .header-number .small {
     font-weight: bold;
-    font-size: 185px;
-    line-height: 95%;
+    font-size: 155px;
+    line-height: 86%;
     vertical-align: top;
     margin-right: -6px;
 }
 .header-number .big {
     font-weight: 600;
-    font-size: 220px;
-    line-height: 91%;
+    font-size: 185px;
+    line-height: 85%;
     vertical-align: top;
 }
 
 /* footer */
 .content-footer-section {
     position: absolute;
-    display: grid;
-    grid-template-columns:50% 50%;
     bottom: 0px;
+    width: calc(100% - 100px);
 }
 
 /* contents */
+.content-grid {
+    display: grid;
+    grid-template-columns:50% 50%;
+}
 .content-title {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 110px;
     color: #ffffff;
     line-height: 90%;
-    margin: 0 0 35px;
+    margin: 0 0 35px -7px;
 }
 .content-data {
     font-weight: 400;
     font-size: 20px;
     color: #ffffff;
 }
+.content-right {
+    position: relative;
+}
 
 /* button styles */
 .button-white {
+    position: absolute;
     background-color: #ffffff;
     color: #000000;
     text-decoration: none;
     padding: 16px 30px;
     font-size: 20px;
     border-radius: 200px;
+    bottom: 0;
+    right: 0;
 }
 .btn-arrow {
     height: 18px;
