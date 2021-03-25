@@ -68,9 +68,10 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that this tutorial be using.
-* [Bootstrap](https://getbootstrap.com)
-* [Bulma](https://bulma.io)
+* [Tailwind](https://tailwindcss.com/)
 * [JQuery](https://jquery.com)
+* [GSAP](https://greensock.com/)
+* [Barba](https://barba.js.org/)
 * [Laravel](https://laravel.com)
 
 
