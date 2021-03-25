@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">SMCB - Week 1 - HTML/CSS</h1>
+  <h1 align="center">Challenge - HTML/CSS</h1>
 
   <p align="center">
     An awesome programming journing to jumpstart your careers!
