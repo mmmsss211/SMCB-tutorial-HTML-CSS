@@ -13,9 +13,9 @@ body, html {
 
 /* major sizing defaults */
 body {
-    background-image: url(../images/hero-bg.webp);
+    background-image: url(../images/test-image.jpg);
     background-repeat: no-repeat;
-    background-position: 0 43%;
+    background-position: center;
     background-size: cover;
 }
 .hero-section {
@@ -27,6 +27,7 @@ body {
 /* header section styles */
 .logo {
     font-size: 18px;
+    color: #ffffff;
 }
 hr.solid {
     color: #ffffff;
@@ -63,7 +64,7 @@ hr.solid {
 /* footer */
 .content-footer-section {
     position: absolute;
-    bottom: 0px;
+    bottom: 28px;
     width: calc(100% - 100px);
 }
 
@@ -79,6 +80,12 @@ hr.solid {
     color: #ffffff;
     line-height: 90%;
     margin: 0 0 35px -7px;
+    background: #FDF1AB;
+    background: -webkit-linear-gradient(to right, #FDF1AB 9%, #FBD95C 27%, #F0553A 50%);
+    background: -moz-linear-gradient(to right, #FDF1AB 9%, #FBD95C 27%, #F0553A 50%);
+    background: linear-gradient(to right, #FDF1AB 9%, #FBD95C 27%, #F0553A 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .content-data {
     font-weight: 400;
@@ -98,12 +105,25 @@ hr.solid {
     padding: 16px 30px;
     font-size: 20px;
     border-radius: 200px;
-    bottom: 0;
+    bottom: 94px;
     right: 0;
+}
+.button-white:nth-child(2) {
+    bottom: 15px;
 }
 .btn-arrow {
     height: 18px;
     padding: 0 0 2px;
     margin: 0 0 0 6px;
     vertical-align: middle;
+}
+.footer {
+    font-size: 13px;
+    color: #ffffff;
+}
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
 }
